@@ -1,0 +1,11 @@
+com\geektime\springbucks\model\BaseEntity.class
+com\geektime\springbucks\model\CoffeeOrder.class
+com\geektime\springbucks\model\OrderState.class
+com\geektime\springbucks\mapper\CoffeeMapper.class
+com\geektime\springbucks\mapper\CoffeeOrderMapper.class
+com\geektime\springbucks\model\Coffee.class
+com\geektime\springbucks\service\CoffeeService.class
+com\geektime\springbucks\model\CoffeeOrder$CoffeeOrderBuilder.class
+com\geektime\springbucks\SpringBucksApplication.class
+com\geektime\springbucks\service\CoffeeOrderService.class
+com\geektime\springbucks\model\Coffee$CoffeeBuilder.class
